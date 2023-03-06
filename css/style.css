@@ -3,30 +3,30 @@ body {
     text-align: center;
     background: linear-gradient(173.26deg, #E7E7FF 26.66%, rgba(231, 255, 249, 0.19) 90.77%);
 }
-nav {
-    text-align: center;
-    
-    
+
+header {
+
+    width: auto;
+    height: 60px;
+    left: 111px;
+    top: 13px;
+    background: linear-gradient(268.22deg, rgba(0, 178, 255, 0.5) -5.53%, rgba(250, 255, 0, 0.255) 71.25%);
 }
 
 ul {
-    margin: 0;
+    margin: 0 auto ;
     padding-left: 0;
 }
 li {
     display: inline-block;
-}
+} 
 a {
     text-decoration: none;
     font-size: 11px; 
-    margin: 0 19px 26px;
+    margin: 0 60px 26px;
     color: #000;
     font-weight: 100;
-}
-
-img {
-    margin: 52px 41px 20px 46px;
-}
+} 
 
 h1 {
     margin: 0 ;
@@ -53,6 +53,14 @@ p {
     margin: 32px auto 56px ;
 }
 
+.image_learnstuff {
+    margin: 10px auto;
+    width: 170px;
+    height: 34px;
+    left: 111px;
+    top: 13px;
+    
+}
 
 .name {
     font-size: 24px;
@@ -62,7 +70,7 @@ p {
 }
 
 .vanya {
-    margin: 52px 41px 0px 46px;
+    margin: 25px auto 10px;
 }
 
 .shorts {
@@ -140,5 +148,21 @@ p {
     width: 214px;
     height: 56px;
     margin: auto;
+}
 
+.help_informations {
+    width: 250px;
+    height: 36px;
+    margin: 10px auto 15px;
+}
+
+.youtube_video {
+    width: 295px;
+    height: 157px;
+}
+
+.footer_name {
+    width: 229px;
+    height: 53px;
+    margin: 50px auto 10px;
 }
