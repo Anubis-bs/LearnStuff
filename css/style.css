@@ -1,11 +1,12 @@
 body {
+    margin: 0;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     background: linear-gradient(173.26deg, #E7E7FF 26.66%, rgba(231, 255, 249, 0.19) 90.77%);
 }
 
 header {
-
+    
     width: auto;
     height: 60px;
     left: 111px;
@@ -114,7 +115,7 @@ p {
 }
 
 .content_2 {   
-    margin: 56px auto 48px;
+    margin: 56px 0 48px;
     background: linear-gradient(268.22deg, rgba(0, 178, 255, 0.5) -5.53%, rgba(250, 255, 0, 0.255) 71.25%);
     height: 210px;
 }
